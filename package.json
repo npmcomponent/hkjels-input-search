@@ -1,0 +1,12 @@
+{
+  "name": "hkjels-input-search",
+  "version": "0.0.2",
+  "styles": [
+    "style.css"
+  ],
+  "dependencies": {
+    "component-domify": "git://github.com/npmcomponent/component-domify.git",
+    "component-event": "git://github.com/npmcomponent/component-event.git",
+    "yields-wrap": "git://github.com/npmcomponent/yields-wrap.git"
+  }
+}

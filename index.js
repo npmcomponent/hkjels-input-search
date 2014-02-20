@@ -3,9 +3,9 @@
  * Module dependencies.
  */
 
-var domify = require('domify')
-  , events = require('event')
-  , wrap = require('wrap');
+var domify = require('component-domify')
+  , events = require('component-event')
+  , wrap = require('yields-wrap');
 
 /**
  * Magnified search input.
